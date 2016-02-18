@@ -1,0 +1,27 @@
+{
+  "name": "jscatch",
+  "version": "1.0.0",
+  "description": "The right way to process JS exceptions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juhlinus/jscatch.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "catch",
+    "try",
+    "exception",
+    "error"
+  ],
+  "author": "Linus Juhlin <me@p1raten.com> (http://p1raten.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juhlinus/jscatch/issues"
+  },
+  "homepage": "https://github.com/Juhlinus/jscatch#readme"
+}
